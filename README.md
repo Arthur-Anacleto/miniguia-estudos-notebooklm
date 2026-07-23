@@ -43,18 +43,18 @@ A IA é um campo da tecnologia focado em criar máquinas capazes de imitar funç
 
 ### 2. A Jornada do Profissional e as Camadas de Oportunidade
 O mercado de IA está dividido em quatro camadas principais:
-*   **Camada 1 (Infraestrutura): Hardware e data centers (ex: Nvidia, Google).
-*   **Camada 2 (Modelos): Desenvolvimento de LLMs (ex: GPT-4, Claude, Gemini).
-*   **Camada 3 (Criação/Builder): Onde profissionais criam serviços, automações e softwares (SaaS). É onde reside a maior oportunidade financeira.
-*   **Camada 4 (Usuário): Uso de ferramentas para produtividade diária.
+*   Camada 1 (Infraestrutura): Hardware e data centers (ex: Nvidia, Google).
+*   Camada 2 (Modelos): Desenvolvimento de LLMs (ex: GPT-4, Claude, Gemini).
+*   Camada 3 (Criação/Builder): Onde profissionais criam serviços, automações e softwares (SaaS). É onde reside a maior oportunidade financeira.
+*   Camada 4 (Usuário): Uso de ferramentas para produtividade diária.
 
 A evolução do profissional consiste em sair do nível tradicional para se tornar AI-First (aumentando a produtividade em 30-50%) e, eventualmente, um Builder, capaz de criar tecnologias e agentes mesmo sem saber programar.
 
 ### 3. IA no Planeamento Estratégico e Negócios
 Para as empresas, a IA funciona como um GPS (Efeito Waze), trazendo clareza para a gestão:
 *   Visão de 24 meses: Ajuda a definir objetivos de longo prazo, evitando que o empresário foque apenas em "pagar contas".
-*   **Mato Alto:** Capacidade de identificar e priorizar os problemas mais críticos que, uma vez resolvidos, geram lucro imediato.
-*   **Padrões Ocultos:** A IA identifica correlações invisíveis ao olho humano, como descobrir que o produto mais vendido pode estar a prejudicar o fluxo de caixa devido a prazos ou custos errados.
+*   Mato Alto: Capacidade de identificar e priorizar os problemas mais críticos que, uma vez resolvidos, geram lucro imediato.
+*   Padrões Ocultos: A IA identifica correlações invisíveis ao olho humano, como descobrir que o produto mais vendido pode estar a prejudicar o fluxo de caixa devido a prazos ou custos errados.
 
 ### 4. O Ecossistema de Ferramentas
 As fontes destacam diversas ferramentas especializadas:
