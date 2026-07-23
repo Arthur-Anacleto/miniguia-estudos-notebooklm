@@ -1,4 +1,4 @@
-## Este caderno temático dedica-se ao estudo da **Inteligência Artificial (IA) como motor de transformação na gestão estratégica e na interação digital, explorando como estas tecnologias deixaram de ser ferramentas de nicho para se tornarem uma camada essencial de produtividade e inovação. O assunto de interesse foca na transição de uma utilização passiva da tecnologia para uma postura de criação e orquestração, onde a IA é utilizada para resolver problemas complexos e escalar negócios.
+## Este caderno temático dedica-se ao estudo da Inteligência Artificial (IA) como motor de transformação na gestão estratégica e na interação digital, explorando como estas tecnologias deixaram de ser ferramentas de nicho para se tornarem uma camada essencial de produtividade e inovação. O assunto de interesse foca na transição de uma utilização passiva da tecnologia para uma postura de criação e orquestração, onde a IA é utilizada para resolver problemas complexos e escalar negócios.
 
 Os meus objetivos de estudo com este material são: 
 
